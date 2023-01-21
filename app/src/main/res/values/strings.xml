@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyRick&amp;Morty</string>
+    <string name="application_title_image">Application Title image</string>
+    <string name="button">Refresh</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name :</string>
+    <string name="status">Status :</string>
+    <string name="episodes">Episodes :</string>
+    <string name="locations">Locations :</string>
+    <string name="todo">TODO</string>
+    <string name="last_location">Last Location :</string>
+    <string name="gender">Gender :</string>
+    <string name="character_picture">Character picture</string>
+</resources>
